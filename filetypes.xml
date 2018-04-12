@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Assembler" type="CLASS" />
       <mapping pattern="fibonacci" type="PLAIN_TEXT" />
+      <mapping pattern="._jmetal" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
